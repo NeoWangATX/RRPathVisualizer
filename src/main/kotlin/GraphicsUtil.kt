@@ -12,7 +12,7 @@ object GraphicsUtil {
 
     val FIELD_WIDTH = 144.0 // 12'
 
-    val ROBOT_WIDTH = 18.0
+    val ROBOT_WIDTH = 17.75
 
     val LINE_THICKNESS = 3.0
 
